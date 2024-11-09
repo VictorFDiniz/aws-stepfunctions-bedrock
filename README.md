@@ -29,7 +29,7 @@ Para rodar este exemplo, você precisará de:
 
 ```json
 {
-  "Comment": "An example of using Bedrock to chain prompts and their responses together.",
+  "Comment": "Assistente de Delivery com AWS Step Functions e Bedrock.",
   "StartAt": "Sugestão de Experiência Gastronômica para Jantar Romântico.",
   "States": {
     "Sugestão de Experiência Gastronômica para Jantar Romântico.": {
